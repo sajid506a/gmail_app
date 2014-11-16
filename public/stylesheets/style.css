@@ -1,0 +1,57 @@
+body {
+  padding: 20px;
+  font: 14px "Verdana", Helvetica, Arial, sans-serif;
+  background: #f8f8f8;
+}
+a {
+  color: #00B7FF;
+}
+#folders {
+  vertical-align: top;
+  display: inline-block;
+  width: 150px;
+}
+#folders a {
+  cursor: pointer;
+  padding: 1px 10px;
+  margin: 3px 0;
+  display: block;
+  border-left: solid 5px transparent;
+}
+#folders a.active {
+  border-left-color: #999;
+}
+#messages {
+  display: inline-block;
+  width: 800px;
+  padding: 10px;
+  background: #efefef;
+}
+#selection {
+  display: inline-block;
+  font-size: 12px;
+}
+.message {
+  padding: 1px 2px;
+  background: white;
+  margin: 1px 0;
+  cursor: pointer;
+}
+.message .from {
+  width: 150px;
+  display: inline-block;
+}
+.message .subject {
+  font-weight: 700;
+}
+.message .body {
+  color: #bbb;
+  font-size: 12px;
+}
+.message.active {
+  background: #FFC;
+}
+.top h1 {
+  display: inline-block;
+  width: 300px;
+}

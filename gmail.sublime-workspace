@@ -1,0 +1,460 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mes",
+				"messageList"
+			],
+			[
+				"u",
+				"updateSelectedCount"
+			],
+			[
+				"r",
+				"response"
+			],
+			[
+				"folder",
+				"folderName"
+			],
+			[
+				"se",
+				"selectedCount"
+			],
+			[
+				"sl",
+				"selectedCount"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"mess",
+				"messageView"
+			],
+			[
+				"m",
+				"messageView"
+			],
+			[
+				"messa",
+				"messageList"
+			],
+			[
+				"Mess",
+				"MessageListView"
+			],
+			[
+				"Me",
+				"MessageView"
+			],
+			[
+				"task",
+				"taskbar"
+			],
+			[
+				"z",
+				"zIndex"
+			],
+			[
+				"Tas",
+				"TaskbarItemView"
+			],
+			[
+				"taskbar",
+				"taskbarItemView"
+			],
+			[
+				"margin",
+				"margin-left"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 1065,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "routes/api/messages.js",
+			"settings":
+			{
+				"buffer_size": 958,
+				"line_ending": "Windows",
+				"name": "messages"
+			}
+		},
+		{
+			"file": "views/index.hjs",
+			"settings":
+			{
+				"buffer_size": 1178,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "public/javascripts/main.js",
+			"settings":
+			{
+				"buffer_size": 3615,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "public/stylesheets/style.less",
+			"settings":
+			{
+				"buffer_size": 803,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 242.0,
+		"selected_items":
+		[
+			[
+				"inde",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"boot",
+				"Build: Bootstrap"
+			],
+			[
+				"boo",
+				"Build: Bootstrap"
+			],
+			[
+				"set syntax les",
+				"Set Syntax: LESS"
+			],
+			[
+				"bas",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"bo",
+				"Build: Bootstrap"
+			],
+			[
+				"b",
+				"Build: Bootstrap"
+			],
+			[
+				"bbo",
+				"Build: Bootstrap"
+			],
+			[
+				"boots",
+				"Build: Bootstrap"
+			],
+			[
+				"build",
+				"Build: Bootstrap"
+			],
+			[
+				"bu",
+				"Build: Build"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"pack ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/node/gmail/routes/index.js",
+		"/C/node/gmail/routes/messages.js",
+		"/C/node/gmail/views/message.hjs",
+		"/C/node/gmail/js/libs/main.js",
+		"/C/wamp/www/pyroCMS/addons/shared_addons/themes/base/views/partials/header.html",
+		"/C/wamp/www/web-workspace/css/bootstrap.css",
+		"/C/wamp/www/web-workspace/css/main.less",
+		"/C/wamp/www/pyroCMS/addons/shared_addons/themes/base/views/layouts/default.html",
+		"/C/wamp/www/pyroCMS/addons/shared_addons/themes/base/css/less/main.less",
+		"/C/wamp/www/web-workspace/js/libs/underscore.js",
+		"/C/wamp/www/pyroCMS/.htaccess",
+		"/C/wamp/www/pyroCMS/system/cms/modules/pages/controllers/pages.php",
+		"/C/Users/Indra/AppData/Roaming/Sublime Text 2/Packages/LESS-build/LESS-rewriteDir.sublime-build-choice",
+		"/C/Users/Indra/AppData/Roaming/Sublime Text 2/Packages/LESS-build/LESS.sublime-build",
+		"/C/wamp/www/pyroCMS/addons/shared_addons/themes/base/css/less/bootstrap.less",
+		"/C/Users/Indra/AppData/Roaming/Sublime Text 2/Packages/LESS-build/LESS-normal.sublime-build-choice"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"title",
+			"btn-small",
+			"btn",
+			"404"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"subject"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app.js",
+					"settings":
+					{
+						"buffer_size": 1065,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								913,
+								913
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 45.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "routes/api/messages.js",
+					"settings":
+					{
+						"buffer_size": 958,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								823,
+								823
+							]
+						],
+						"settings":
+						{
+							"auto_name": "messages",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 344.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "views/index.hjs",
+					"settings":
+					{
+						"buffer_size": 1178,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1119,
+								1119
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 15.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "public/javascripts/main.js",
+					"settings":
+					{
+						"buffer_size": 3615,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2829,
+								2829
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 45.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "public/stylesheets/style.less",
+					"settings":
+					{
+						"buffer_size": 803,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								421,
+								421
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 270.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 229.0,
+	"status_bar_visible": true
+}

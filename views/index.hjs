@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ title }}</title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+  	<div class="top">
+  		<h1>{{ title }}</h1>
+	    <p id="selection" style="display:none;">
+	    	Selected messages count: <span class="count"></span>
+	    </p>
+  	</div>
+    
+    <div id="folders">
+    	<a href="/folder/inbox" class="active">Inbox</a>
+    	<a href="/folder/sent">Sent</a>
+    	<a href="/folder/trash">Trash</a>
+    </div>
+    <div id="messages">
+
+    </div>
+    <div class="templates">
+    	<script type="text/html" id="messageTemplate">
+	    	<div class="message">
+				<input type="checkbox" class="checkbox"/>
+				<span class="from">{{options.from}}</span>
+				<span class="subject">{{options.subject}}</span>
+				<span class="body">{{options.body}}</span>
+			</div>
+    	</script>
+    </div>
+    <div id="scripts">
+    	<script src="/javascripts/libs/jquery.js"></script>
+    	<script src="/javascripts/libs/underscore.js"></script>
+    	<script src="/javascripts/libs/backbone.js"></script>
+    	<script src="/javascripts/libs/handlebars.js"></script>
+    	<script src="/javascripts/main.js"></script>
+    </div>
+  </body>
+</html>
